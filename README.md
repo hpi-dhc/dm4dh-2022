@@ -9,3 +9,5 @@ To run all notebooks interactively with MyBinder, click here (and wait for a few
 ## Contents:
 
 * Week 2: [Iterative ML Design Process](1_ML_Intro.ipynb)
+* Week 7/8: [Neural Networks](2_Neural_Networks.ipynb)
+* Week 7/8: [Biomedical NLP](3_Biomedical_NLP.ipynb)
